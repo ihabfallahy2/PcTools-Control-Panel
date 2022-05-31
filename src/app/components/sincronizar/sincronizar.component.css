@@ -1,0 +1,21 @@
+.zona{
+    display: flex;
+}
+
+.tabla_firebase{
+    margin:1%;
+    border:1px solid grey;
+}
+.tabla_database{
+    margin:1%;
+    border:1px solid grey;
+}
+
+span{
+    margin:1%;
+}
+
+.table-title{
+    height:2%;
+    margin:5%;
+}
